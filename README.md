@@ -2,7 +2,7 @@
 
 Take the first step to detect hoax tweets
 
-https://quevico.com/competitions/104
+Link to the competition: https://quevico.com/competitions/104
 
 # Introduction
 
@@ -33,7 +33,7 @@ I built a baseline model based on RNN architecture to classify text. The result 
 <p align="center"><i>The result in the validation set</i></p>
 
 <p align="center">
-  <img alt= "The result in the leaderboard" src="./imgs/test.png">
+  <img alt= "The result in the leaderboard" src="./imgs/leaderboard.png">
 </p>
 <p align = "center"><i>The result in the leaderboard</i></p>
 
