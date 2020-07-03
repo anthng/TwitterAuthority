@@ -28,9 +28,11 @@ Annotation rules
 I built a baseline model based on RNN architecture to classify text. The result is fine. I gained an accuracy of about 0.7546 in the validation set and 0.7474 in the leaderboard (rank: 8/136 entries).
 
 ![The result in validation set](./imgs/test.png)
-*iThe result in validation*
+
+*The result in validation*
 
 ![The result in ](./imgs/test.png)
+
 *The result in leaderboard*
 
 I joined the competition very close to the deadline, I can't improve my model better as well as upload the final submission (miss a deadline) so I do not know the accuracy of the final submission and the final score.
