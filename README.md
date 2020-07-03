@@ -27,12 +27,14 @@ Annotation rules
 
 I built a baseline model based on RNN architecture to classify text. The result is fine. I gained an accuracy of about 0.7546 in the validation set and 0.7474 in the leaderboard (rank: 8/136 entries).
 
-![The result in validation set](./imgs/test.png)
+<p align="center">
+  <img alt= "The result in the validation set" src="./imgs/test.png">
+</p>
+<p align="center"><i>The result in the validation set</i></p>
 
-*The result in validation*
-
-![The result in ](./imgs/test.png)
-
-*The result in leaderboard*
+<p align="center">
+  <img alt= "The result in the leaderboard" src="./imgs/test.png">
+</p>
+<p align = "center"><i>The result in the leaderboard</i></p>
 
 I joined the competition very close to the deadline, I can't improve my model better as well as upload the final submission (miss a deadline) so I do not know the accuracy of the final submission and the final score.
