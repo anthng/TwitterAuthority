@@ -37,6 +37,4 @@ I built a baseline model based on RNN architecture to classify text. The result 
 </p>
 <p align = "center"><i>The result in the leaderboard</i></p>
 
-I joined the competition very close to the deadline, I can't improve my model better as well as upload the final submission (miss a deadline) so I do not know the accuracy of the final submission and the final score.
-
 <p>Run code in the notebook file <a href="./notebook.ipynb">here</a></p>
