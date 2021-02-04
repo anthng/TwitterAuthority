@@ -18,10 +18,13 @@ Over 100,000 lines of data consisting of tweets from both verified and non-verif
 # Data
 Verified accounts are determined by the presence of a verification badge, a link from a corporate website (verification by the corporation), and other factors that lead the data collector to conclude that the account has a high degree of authoritativeness. Non-verified accounts refer to all other accounts, including anonymous accounts and individual hobby accounts.
 
-Annotation rules
+Annotation rules:
+
 0: Tweets from verified accounts
+
 1: Tweets from non-verified accounts
-*The presence or absence of the badges were current at the time of data collection and may have changed.
+
+*The presence or absence of the badges were current at the time of data collection and may have changed.*
 
 # My Baseline
 
